@@ -1,9 +1,11 @@
-# react-ts-boilerplate-with-rtk
+# react-ts-boilerplate-with-redux
 
 
 ## 기본적인 기술 스텍
   
-  ts, react, axios, react-router, redux-toolkit, styled-components
+  ts, react, axios, react-router, redux, styled-components, immer
+  
+  redux-tool-kit안사용하고 reudx를 사용하고 싶을 때 사용.
 
 
 ## 스크립트 
